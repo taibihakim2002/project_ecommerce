@@ -10,3 +10,8 @@ let info = {
 
 let {Name,Age,ge} = info;
 >>>>>>> ad3f210153e597733abfe3cb873b8eced9e0b517
+
+
+// new edit 
+
+console.log("New edit");
