@@ -5,4 +5,5 @@ let info = {
 
 }
 
-let {Name,Age} = info;
+
+let {Name,Age,ge} = info;
